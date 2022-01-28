@@ -20,5 +20,4 @@ class SeriesController extends Controller {
 
         return view('series.create');
     }
-
 }
